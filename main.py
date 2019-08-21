@@ -8,7 +8,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 '''
-Followed the code style of GCN-Align:
+Follow the code style of GCN-Align:
 https://github.com/1049451037/GCN-Align
 '''
 
