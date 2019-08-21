@@ -4,16 +4,16 @@ Source code and datasets for IJCAI 2019 paper: ***Relation-Aware Entity Alignmen
 
 Initial datasets are from [GCN-Align](https://github.com/1049451037/GCN-Align) and [JAPE](https://github.com/nju-websoft/JAPE).
 
-## Environment
+## Dependencies
 
-* Python 3.5.2
-* Tensorflow 1.8.0
-* Scipy 1.1.0
-* Numpy 1.15.4
+* Python>=3.5
+* Tensorflow>=1.8.0
+* Scipy>=1.1.0
+* Numpy
 
-## Dataset
+## Datasets
 
-You could download our demo dataset [here](http://59.108.48.35/data.tar.gz) and extract it into `data/` directory.
+Please first download the datasets [here](http://59.108.48.35/data.tar.gz) and unpack this folder to the local clone of the repository.
 
 ## Running
 
