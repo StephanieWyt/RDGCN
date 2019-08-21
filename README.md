@@ -1,6 +1,6 @@
 # RDGCN
 
-Source code and datasets for IJCAI 2019 paper: ***Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs***.
+Source code and datasets for IJCAI 2019 paper: ***[Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs](https://www.ijcai.org/proceedings/2019//0733.pdf)***.
 
 Initial datasets are from [GCN-Align](https://github.com/1049451037/GCN-Align) and [JAPE](https://github.com/nju-websoft/JAPE).
 
