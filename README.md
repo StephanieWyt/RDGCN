@@ -13,7 +13,7 @@ Initial datasets are from [GCN-Align](https://github.com/1049451037/GCN-Align) a
 
 ## Dataset
 
-You could download our demo dataset [here](http://59.108.48.35/data.tar.gz) into `data/` directory.
+You could download our demo dataset [here](http://59.108.48.35/data.tar.gz) and extract it into `data/` directory.
 
 ## Running
 
