@@ -36,7 +36,7 @@ Take the dataset DBP15K (ZH-EN) as an example, the folder "zh_en" contains:
 
 > Due to the instability of embedding-based methods, it is acceptable that the results fluctuate a little bit (±1%) when running code repeatedly.
 
-> If you have any difficulty or question in running code and reproducing experiment results, please email to wyting@pku.edu.cn.
+> If you have any questions about reproduction, please feel free to email to wyting@pku.edu.cn.
 
 ## Citation
 
