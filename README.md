@@ -13,7 +13,7 @@ Initial datasets are from [GCN-Align](https://github.com/1049451037/GCN-Align) a
 
 ## Datasets
 
-Please first download the datasets [here](http://59.108.48.35/data.tar.gz) and extract them into `data/` directory.
+Please first download the datasets [here](https://drive.google.com/drive/folders/13u-4r4aJbjhUPRbDXrVFA3QfQS0y_8Ye?usp=sharing) and extract them into `data/` directory.
 
 There are three cross-lingual datasets in this folder:
 - fr-en
