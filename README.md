@@ -11,6 +11,8 @@ Initial datasets are from [GCN-Align](https://github.com/1049451037/GCN-Align) a
 * Scipy>=1.1.0
 * Numpy
 
+> Due to the limited graphics memory of GPU, we ran our codes using CPUs (40  Intel(R) Xeon(R) CPU E5-2640 v4 @ 2.40GHz).
+
 ## Datasets
 
 Please first download the datasets [here](https://drive.google.com/drive/folders/13u-4r4aJbjhUPRbDXrVFA3QfQS0y_8Ye?usp=sharing) and extract them into `data/` directory.
