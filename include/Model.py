@@ -35,11 +35,12 @@ def rfunc(KG, e):
 
 
 def get_mat(e, KG):
-    du = [1] * e
+    du = [{e_id} for e_id in range(e)]
     for tri in KG:
         if tri[0] != tri[2]:
-            du[tri[0]] += 1
-            du[tri[2]] += 1
+            du[tri[0]].add(tri[2])
+            du[tri[2]].add(tri[0])
+    du = [len(d) for d in du]
     M = {}
     for tri in KG:
         if tri[0] == tri[2]:
